@@ -16,9 +16,9 @@ Enjoy!
 | -------------------| ----------- |
 | [Brackeys](https://youtube.com/@Brackeys) | For Beginners|
 | [Virtus Learning hub](https://youtube.com/@VirtusEdu) | A Plethora of resources|
-| [GDQuest](https://youtube.com/@Gdquest) | A variety of tutorials) | 
+| [GDQuest](https://youtube.com/@Gdquest) | A variety of tutorials | 
 | [Vimlark Games](https://youtube.com/@Vimlark) | Project based |
-
+|[C# Course](https://youtu.be/wxznTygnRfQ)|Full C# course|
 ---
 ## Software for Game Dev
 | Software Links |
