@@ -29,7 +29,7 @@ Enjoy!
 ---
 ---
 ## Assets for Game dev
-| Software Links |
+| Asset Links |
 | ------------- |
 |[Kenny Game assets](https://www.kenney.nl/assets/)|
 |[Voxel dessert town assets](https://maxparata.itch.io/voxel-desert-town)|
