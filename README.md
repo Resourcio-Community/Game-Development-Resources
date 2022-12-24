@@ -6,12 +6,12 @@ Resources are added frequently! ⚡
 Enjoy!
 ---
 ## Table of Contents
-- [YouTube Channels for game Dev](#youtube-channels-for-game-dev):incoming_envelope:
-- [Websites for game Dev](#websites-for-game-dev):computer:
+- [YouTube Videos and Playlists for Game Dev](#youtube-videos-and-playlists-for-game-dev):incoming_envelope:
+- [Software for Game Dev](#software-for-game-dev):computer:
+- [Assets for Game Dev](#assets-for-game-dev):computer:
 - [Join our Community](#join-our-community):blush:
---- |
 ---
-## YouTube Videos & Playlists for Game Dev
+## YouTube Videos and Playlists for Game Dev
 | Playlists & Videos | Description |
 | -------------------| ----------- |
 | [Brackeys](https://youtube.com/@Brackeys) | For Beginners|
@@ -27,8 +27,7 @@ Enjoy!
 |[Pixilart](https://www.pixilart.com/)|
 |[Blender](https://www.blender.org/) |
 ---
----
-## Assets for Game dev
+## Assets for Game Dev
 | Asset Links |
 | ------------- |
 |[Kenny Game assets](https://www.kenney.nl/assets/)|
