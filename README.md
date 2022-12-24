@@ -24,7 +24,7 @@ Enjoy!
 | Software Links |
 | ------------- |
 |[Gimp](https://www.gimp.org/)|
-|[Pixilart|(https://www.pixilart.com/)|
+|[Pixilart](https://www.pixilart.com/)|
 |[Blender](https://www.blender.org/) |
 ---
 ---
@@ -32,7 +32,7 @@ Enjoy!
 | Software Links |
 | ------------- |
 |[Kenny Game assets](https://www.kenney.nl/assets/)|
-|[Voxel dessert town assets|(https://maxparata.itch.io/voxel-desert-town)|
+|[Voxel dessert town assets](https://maxparata.itch.io/voxel-desert-town)|
 |[Unreal Engine](https://www.unrealengine.com/marketplace/en-US/free?count=20&sortBy=effectiveDate&sortDir=DESC&start=0) |
 ---
 ## Join our Community
