@@ -4,11 +4,12 @@ This is an awesome repo about game development resources. ⚡
 Resources are added frequently! ⚡
 
 Enjoy!
-
-
-<br>To add, remove or change things on the list:
-[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Game-Development-Resources)
 ---
+## Contributing:cupid:
+
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Game-Development-Resources)
+
 ## Table of Contents
 - [YouTube Videos and Playlists for Game Dev](#youtube-videos-and-playlists-for-game-dev):incoming_envelope:
 - [Software for Game Dev](#software-for-game-dev):computer:
